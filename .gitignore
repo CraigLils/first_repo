@@ -1,0 +1,6 @@
+output/              # ignore folder called "output"
+*.pdf                # ignore all PDF files
+*.csv                # ignore all csv files
+Info.docx            # ignore the Word document "Info.docx"
+sens_info/*.docx     # ignore all Word documents in 'sens_info' folder
+sens_info.txt	   # ignore the 'sens_info.txt' text file
